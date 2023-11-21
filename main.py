@@ -6,3 +6,5 @@
 # - Allow the user to see what animes he added to the list and when will the next episode for each one be
 
 
+# - Posso creare un database con "effective chat id" come chiave per salvare i singoli episodi degli utenti
+# - Quando faccio le query posso  poi mandare gli aggiornamenti ai singoli utenti
